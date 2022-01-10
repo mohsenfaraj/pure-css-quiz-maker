@@ -1,4 +1,4 @@
-import {useState , useEffect, createRef} from 'react'
+import React , {useState , useEffect, createRef} from 'react'
 import Question from "./Question"
 import generateCssQuiz from './Generator'
 import cssCode from "./CssCode"
