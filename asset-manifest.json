@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mohsenfaraj/pure-css-quiz-maker/static/css/main.bbb52d1d.chunk.css",
-    "main.js": "/mohsenfaraj/pure-css-quiz-maker/static/js/main.24699880.chunk.js",
-    "main.js.map": "/mohsenfaraj/pure-css-quiz-maker/static/js/main.24699880.chunk.js.map",
-    "runtime-main.js": "/mohsenfaraj/pure-css-quiz-maker/static/js/runtime-main.35a57d3c.js",
-    "runtime-main.js.map": "/mohsenfaraj/pure-css-quiz-maker/static/js/runtime-main.35a57d3c.js.map",
-    "static/js/2.aea19393.chunk.js": "/mohsenfaraj/pure-css-quiz-maker/static/js/2.aea19393.chunk.js",
-    "static/js/2.aea19393.chunk.js.map": "/mohsenfaraj/pure-css-quiz-maker/static/js/2.aea19393.chunk.js.map",
-    "index.html": "/mohsenfaraj/pure-css-quiz-maker/index.html",
-    "precache-manifest.47a0fdd139da8b0ba60ea433577ee0ee.js": "/mohsenfaraj/pure-css-quiz-maker/precache-manifest.47a0fdd139da8b0ba60ea433577ee0ee.js",
-    "service-worker.js": "/mohsenfaraj/pure-css-quiz-maker/service-worker.js",
-    "static/css/main.bbb52d1d.chunk.css.map": "/mohsenfaraj/pure-css-quiz-maker/static/css/main.bbb52d1d.chunk.css.map",
-    "static/js/2.aea19393.chunk.js.LICENSE.txt": "/mohsenfaraj/pure-css-quiz-maker/static/js/2.aea19393.chunk.js.LICENSE.txt"
+    "main.css": "/mohsenfaraj/static/css/main.bbb52d1d.chunk.css",
+    "main.js": "/mohsenfaraj/static/js/main.24699880.chunk.js",
+    "main.js.map": "/mohsenfaraj/static/js/main.24699880.chunk.js.map",
+    "runtime-main.js": "/mohsenfaraj/static/js/runtime-main.6831d367.js",
+    "runtime-main.js.map": "/mohsenfaraj/static/js/runtime-main.6831d367.js.map",
+    "static/js/2.aea19393.chunk.js": "/mohsenfaraj/static/js/2.aea19393.chunk.js",
+    "static/js/2.aea19393.chunk.js.map": "/mohsenfaraj/static/js/2.aea19393.chunk.js.map",
+    "index.html": "/mohsenfaraj/index.html",
+    "precache-manifest.9101286554ba4af9a34f0b29acaa9a16.js": "/mohsenfaraj/precache-manifest.9101286554ba4af9a34f0b29acaa9a16.js",
+    "service-worker.js": "/mohsenfaraj/service-worker.js",
+    "static/css/main.bbb52d1d.chunk.css.map": "/mohsenfaraj/static/css/main.bbb52d1d.chunk.css.map",
+    "static/js/2.aea19393.chunk.js.LICENSE.txt": "/mohsenfaraj/static/js/2.aea19393.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35a57d3c.js",
+    "static/js/runtime-main.6831d367.js",
     "static/js/2.aea19393.chunk.js",
     "static/css/main.bbb52d1d.chunk.css",
     "static/js/main.24699880.chunk.js"
