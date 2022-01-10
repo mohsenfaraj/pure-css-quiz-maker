@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+.options{
+    padding: 0 20px
+}
+.options > * {
+    margin-top : 10px ;
+}
+.option {
+    width: 100%;
+    min-height: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.option > * {
+    margin : 0 10px;
+}
+
+.option input[type="text"] {
+    color: #fff;
+    min-height: 40px;
+    background: transparent;
+    border : 1px solid #0005 ;
+    border-radius: 5px;
+    padding:10px;
+    width: 100%;
+}
+
+.option input[type=text]::placeholder {
+    color: #fff5 ;
+}
