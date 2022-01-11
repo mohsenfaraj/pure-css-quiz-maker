@@ -1,7 +1,7 @@
 export default function generateCssQuiz(questions , rtlmode , customCss){
     let code = ""
     code += `<style>${customCss}</style>`
-    code += `<form method="POST" class="is-not-results" autocomplete="off" ${rtlmode?'dir="rtl"' : '' }>`
+    code += `<div class="question"><form method="POST" class="is-not-results" autocomplete="off" ${rtlmode?'dir="rtl"' : '' }>`
     questions.forEach((question , questionIndex) => {
         code += `
         <fieldset>
@@ -33,6 +33,6 @@ code += `
 <div class="cleardiv">
     <button type="reset">${rtlmode?"پاک کردن پاسخ‌ها":"Clear answers"}</button>
 </div>
-</form>`
+</form></div>`
 return code ;
 }
