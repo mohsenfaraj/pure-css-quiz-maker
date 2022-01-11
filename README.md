@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# about this project
+
+this is a React app that gets the question from user and makes a pure css/html code with the data.
+you can use this code everywhere even if javascript is disabled (mobile phones in most cases) as long as the browser supports it.
+you can save your data for later use with the save button.
+also there is no limitation on question or option count and you can make unlimited questions.
+there is a right-to-left option for persian support. if you want to change the language you can modify Generator.js
+you can use custom css code beside the default one for the Quiz. for modifiying check CssCode.js
+this is not a complete project and i will add more features in future (loading data manually/saving multiple quiz/generate link/re-ordering options or questions) if needed.
+
+thanks for github pages for hosting project!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
