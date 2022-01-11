@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83a1c427423a9bfa9a0f9b3d22a321ec",
+    "revision": "b401241b33478128b1a220713d24042f",
     "url": "/pure-css-quiz-maker/index.html"
   },
   {
